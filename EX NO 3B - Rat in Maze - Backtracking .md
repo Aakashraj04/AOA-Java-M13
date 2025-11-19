@@ -41,8 +41,8 @@ Explanation: One possible way is : left -> down -> left -> down -> right -> down
 ## Program:
 ```
 /*
-Developed by: JANARTHANAN S
-Register Number:  212222040058 
+Developed by: Aakashraj M
+Register Number:  212222100002 
 */
 import java.util.*;
 
